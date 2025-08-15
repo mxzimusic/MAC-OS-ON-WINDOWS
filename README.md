@@ -4,7 +4,7 @@ READY FOR A BOOT?
 [![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBFyTEktK_l-8HK5Qp4y--lWPoGn3HOuRuQ&s)](https://github.com/runixe786/Macified_Windows)
     <h1 align="center">Macified Windows</h1>
 
-<p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. Lets begin macifying your Windows 11 desktop :) .</p>
+<p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I wil prodoce this to share
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=star">
@@ -19,10 +19,10 @@ READY FOR A BOOT?
 </p>
 
 <p align="center">
-  <a href="https://t.me/DroidDenn">
+  <a href="
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDenn"
   alt="Telegram">
-<a href="https://t.me/DroidDiscussion">
+<a href="
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDiscussion"
         alt="Telegram"> </a>
   </p>
