@@ -1,7 +1,7 @@
 # MAC-OS-ON-WINDOWS
 READY FOR A BOOT?
 
-[![GitHub Logo](https://graph.org/file/b08506b345f39971a004c.jpg)](https://github.com/runixe786/Macified_Windows)
+[![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBFyTEktK_l-8HK5Qp4y--lWPoGn3HOuRuQ&s)](https://github.com/runixe786/Macified_Windows)
     <h1 align="center">Macified Windows</h1>
 
 <p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. Lets begin macifying your Windows 11 desktop :) .</p>
