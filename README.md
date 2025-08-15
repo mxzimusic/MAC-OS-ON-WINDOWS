@@ -50,7 +50,7 @@ FILES NOT OUT YET PLEASE DONT COMPLAIN
 
 # Final Look
 
-So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
+So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment.
 
 <p align="center">
   <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
