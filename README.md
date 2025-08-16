@@ -30,7 +30,7 @@ FILES NOT OUT YET PLEASE DONT COMPLAIN
         alt="Telegram"> </a>
   </p>
 <p align="center">
-    <a href="https://www.buymeacoffee.com/sahilseth2s">
+    <a href="https://www.buymeacoffee.com/MXZIOFC">
         <img style="width:250px" alt="buymeacoffee" src="https://i.imgur.com/fxJ4BNq.png">
     </a>
 </p>
