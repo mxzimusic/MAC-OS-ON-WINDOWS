@@ -1,0 +1,34 @@
+body, .macos-wallpaper {
+  min-height: 100vh;
+  width: 100vw;
+  /* Big Sur inspired gradient */
+  background: linear-gradient(120deg, #ffafcc 0%, #bde0fe 50%, #6a89cc 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Optional glassy overlay for depth */
+.macos-wallpaper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  /* Subtle circular gradient for glossy effect */
+  background: radial-gradient(circle at 60% 40%, rgba(255,255,255,0.25) 0%, rgba(255,255,255,0.0) 60%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Optional: animated waves for extra macOS feel */
+.macos-wallpaper::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('data:image/svg+xml;utf8,<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"><path d="M0,100 Q50,150 100,100 T200,100 T300,100 T400,100 T500,100 V200 H0 Z" fill="rgba(255,255,255,0.1)"/></svg>');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* To use: add class="macos-wallpaper" to your <body> or a <div> */
