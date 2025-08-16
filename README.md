@@ -14,7 +14,7 @@ FILES NOT OUT YET PLEASE DONT COMPLAIN 4 OUTS
  <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/runixe786/Macified-Windows/total">
     <a href="https://t.me/GithubGeeks">
-        <img alt="Telegram" src="https://img.shields.io/badge/MAC-BLUE
+        <img alt=" src="https://img.shields.io/badge/MAC-BLUE
 <
         
     </a> 
