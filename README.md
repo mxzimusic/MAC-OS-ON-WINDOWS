@@ -1,6 +1,8 @@
 # MAC-OS-ON-WINDOWS
 READY FOR A BOOT? 
 FILES NOT OUT YET PLEASE DONT COMPLAIN
+![Static Badge](https://img.shields.io/badge/THEME-CODERS-blue)
+
 
 [![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBFyTEktK_l-8HK5Qp4y--lWPoGn3HOuRuQ&s)](https://github.com/runixe786/Macified_Windows)
     <h1 align="center">Macified Windows</h1>
