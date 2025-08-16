@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Name of the theme folder and DMG
+THEME_NAME="MyTheme"
+DMG_NAME="MyTheme.dmg"
+
+# Create theme folder and add sample files
+mkdir -p "$THEME_NAME"
+echo "Sample wallpaper" > "$THEME_NAME/wallpaper.png"
+echo "Sample icon" > "$THEME_NAME/icon.icns"
+echo "Sample plist" > "$THEME_NAME/theme.plist"
+
+# Create the DMG
+hdiutil create -volname "$THEME_NAME" -srcfolder "$THEME_NAME" -ov -format UDZO "$DMG_NAME"
+
+echo "DMG created: $DMG_NAME"
