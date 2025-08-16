@@ -1,10 +1,10 @@
 # MAC-OS-ON-WINDOWS
 READY FOR A BOOT? 
-FILES NOT OUT YET PLEASE DONT COMPLAIN
+FILES NOT OUT YET PLEASE DONT COMPLAIN 4 OUTS
 ![Static Badge](https://img.shields.io/badge/THEME-CODERS-blue)
 
 
-[![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBFyTEktK_l-8HK5Qp4y--lWPoGn3HOuRuQ&s)](https://github.com/runixe786/Macified_Windows)
+[![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBFyTEktK_l-8HK5Qp4y--lWPoGn3HOuRuQ&s)](https://github.com/mxzimusic/MAC-OS-ON-WINDOWS)
     <h1 align="center">Macified Windows</h1>
 
 <p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I wil prodoce this to share
@@ -14,9 +14,9 @@ FILES NOT OUT YET PLEASE DONT COMPLAIN
  <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/runixe786/Macified-Windows/total">
     <a href="https://t.me/GithubGeeks">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue.svg">  
-<a href="https://t.me/DroidDenn">
-        <img src="https://img.shields.io/badge/Made%20With%20♥️-by%20Sahil-orange?style=style=flat">   
+        <img alt="Telegram" src="https://img.shields.io/badge/MAC-BLUE
+<
+        
     </a> 
     </a>
 </p>
